@@ -1,22 +1,22 @@
 # Pronouns
 
-alius  
-alter  
-ego  
-hic  
+alius 21  
+alter 21  
+ego 17  
+hic 21  
 idem  
 ille  
 ipse  
 is  
-meus  
-nos  
-noster  
-qui  
-quidam  
-quis?  
+meus 17  
+nos 17  
+noster 17  
+qui 23  
+quidam 21  
+quis?   
 se  
-suus  
-tu  
-tuus  
-vester  
-vos  
+suus 17  
+tu 17  
+tuus 17  
+vester 17  
+vos 17  
