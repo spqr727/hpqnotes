@@ -1,6 +1,6 @@
 # Adjectives
 
-## Decl. 1-2  
+### Decl. 1-2  
 
 altus  
 bonus  
@@ -27,7 +27,7 @@ tantus
 totus  
 validus  
 
-## Decl 3
+### Decl. 3
 
 audax  
 brevis  
@@ -48,7 +48,7 @@ sacer
 talis  
 tristis  
 
-## Other
+### Irregular/Other
 
 alius  
 alter  

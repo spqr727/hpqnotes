@@ -1,4 +1,6 @@
-# Decl. 1  
+# Nouns
+
+### Decl. 1  
 
 ancilla f 4  
 aqua f  
@@ -31,7 +33,7 @@ victoria f
 villa f 4  
 vita f  
 
-# Decl. 2  
+### Decl. 2  
 
 ager m  
 amicus m 5  
@@ -75,7 +77,7 @@ verbum n
 vinum n  
 vir m  
 
-# Decl. 3  
+### Decl. 3  
 
 amor m  
 ars f  
@@ -124,13 +126,13 @@ virtus f
 vox f  
 vulnus n  
 
-# Decl. 4
+### Decl. 4
 
 domus f  
 exercitus m  
 manus f  
 
-# Decl. 5
+### Decl. 5
 
 dies m  
 res f  
