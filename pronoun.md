@@ -2,6 +2,7 @@
 
 alius 21  
 alter 21  
+ceteri 21  
 ego 17  
 hic 21  
 idem  
