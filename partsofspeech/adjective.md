@@ -1,7 +1,7 @@
 # Adjectives  
 
-[Return to vocabulary list](/partsofspeech/index.md)  
-[Return to homepage](/README.md)
+[Return to vocabulary list](../partsofspeech)  
+[Return to homepage](../README.md)
 
 ### Decl. 1-2  
 
