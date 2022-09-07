@@ -1,4 +1,7 @@
-# Pronouns
+# Pronouns  
+
+[Return to vocabulary list](/partsofspeech/index.md)  
+[Return to homepage](/README.md)
 
 alius 21  
 alter 21  

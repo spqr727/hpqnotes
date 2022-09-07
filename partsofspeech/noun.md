@@ -1,4 +1,7 @@
-# Nouns
+# Nouns  
+
+[Return to vocabulary list](/partsofspeech/index.md)  
+[Return to homepage](/README.md)
 
 ### Decl. 1  
 
@@ -137,3 +140,8 @@ manus f
 dies m  
 res f  
 spes f  
+
+### Irregular
+
+nemo  
+nihil
