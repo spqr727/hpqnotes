@@ -8,22 +8,22 @@ Lesson 1: Introduction to inflection and pronunciation
 
 #### Chapter 1:  
 Lesson 2 *(vb)*: `sum` present active indicative  
-Lesson 3 *(vb)*: `amō` and 1st conjugation present active indicative  
-Lesson 4 *(n)*: `fēmina` and 1st declension nominative and accusative  
-Lesson 5 *(n)*: `amīcus` and 2nd declension nominative and accusative  
+Lesson 3 *(vb)*: `amo᷄` and 1st conjugation present active indicative  
+Lesson 4 *(n)*: `fe᷄mina` and 1st declension nominative and accusative  
+Lesson 5 *(n)*: `ami᷄cus` and 2nd declension nominative and accusative  
 Translation 1: Passage including covered content  
 
 #### Chapter 2:  
-Lesson 6 *(vb)*: `videō` and 2nd conjugation present active indicative  
-Lesson 7 *(vb)*: `dūcō` and 3rd conjugation present active indicative  
-Lesson 8 *(vb)*: `audiō` and 4th conjugation present active indicative  
+Lesson 6 *(vb)*: `video᷄` and 2nd conjugation present active indicative  
+Lesson 7 *(vb)*: `du᷄co᷄` and 3rd conjugation present active indicative  
+Lesson 8 *(vb)*: `audio᷄` and 4th conjugation present active indicative  
 Lesson 9 *(n)*: Dative case 1st and 2nd declension  
 Lesson 10 *(n)*: Genitive case 1st and 2nd declension  
 Lesson 11 *(n)*: Ablative case 1st and 2nd declension  
 Translation 2: Passage including covered content  
 
 #### Chapter 3:  
-Lesson 12 *(adj)*: `īrātus` and 2-1-2 adjectives  
+Lesson 12 *(adj)*: `i᷄ra᷄tus` and 2-1-2 adjectives  
 Lesson 13 *(vb)*: Imperfect active indicative  
 Lesson 14 *(vb)*: `possum` present active indicative and `possum` and `sum` imperfect active indicative  
 Lesson 15 *(vb)*:  Positive imperative  
@@ -40,14 +40,14 @@ Translation 4: Passage including covered content
 Lesson 20 *(adj)*: 3rd declension adjectives  
 Lesson 21 *(adv)*: Adverbs  
 Lesson 22 *(vb)*: Future active indicative  
-Lesson 23 *(prn)*: Pronouns `alius`, `alter`, `cēterus`, `hic`, `quīdam`  
+Lesson 23 *(prn)*: Pronouns `alius`, `alter`, `ce᷄terus`, `hic`, `quīdam`  
 Translation 5: Passage including covered content  
 
 #### Chapter 6:  
 Lesson 24 *(vb)*: Pluperfect active indicative  
-Lesson 25 *(syn)*: Relative clauses and `quī`  
-Lesson 26 *(syn)*: Conjunctions `quod`, `quamquam`, `ubī`, `postquam`  
-Lesson 27 *(vb)*: `eō` active indicative excl. future perfect  
+Lesson 25 *(syn)*: Relative clauses and `qui᷄`  
+Lesson 26 *(syn)*: Conjunctions `quod`, `quamquam`, `ubi᷄`, `postquam`  
+Lesson 27 *(vb)*: `eo᷄` active indicative excl. future perfect  
 Lesson 28 *(vb)*: Compound verbs  
 Translation 6: Passage including covered content  
 
